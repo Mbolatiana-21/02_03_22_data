@@ -1,0 +1,7 @@
+Affichage
+Filtrage
+	par nom,
+	par num bsc
+Résumé delais traitement en tableau
+	global,
+	par mois
